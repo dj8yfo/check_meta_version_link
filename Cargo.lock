@@ -2826,7 +2826,7 @@ dependencies = [
 
 [[package]]
 name = "near-new-prj"
-version = "0.1.0"
+version = "0.1.9"
 dependencies = [
  "near-sdk",
  "near-workspaces",
@@ -3087,7 +3087,7 @@ dependencies = [
 [[package]]
 name = "near-sdk"
 version = "5.2.0"
-source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#366f94a9ad6ee54e1635287a881f5419cbf3ed7e"
+source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#cb3a7d24ea533aa4235cbdc402ec7ec3c8897f8f"
 dependencies = [
  "base64 0.21.7",
  "borsh",
@@ -3111,7 +3111,7 @@ dependencies = [
 [[package]]
 name = "near-sdk-macros"
 version = "5.2.0"
-source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#366f94a9ad6ee54e1635287a881f5419cbf3ed7e"
+source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#cb3a7d24ea533aa4235cbdc402ec7ec3c8897f8f"
 dependencies = [
  "Inflector",
  "darling",
@@ -3156,7 +3156,7 @@ checksum = "29e1897481272eb144328abd51ca9f59b5b558e7a6dc6e2177c8c9bb18fbd818"
 [[package]]
 name = "near-sys"
 version = "0.2.2"
-source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#366f94a9ad6ee54e1635287a881f5419cbf3ed7e"
+source = "git+https://github.com/dj8yfo/near-sdk-rs?branch=return_cargo_pkg_fallback_330meta#cb3a7d24ea533aa4235cbdc402ec7ec3c8897f8f"
 
 [[package]]
 name = "near-time"
